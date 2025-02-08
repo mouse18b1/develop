@@ -1,0 +1,8 @@
+Nox/.vs/
+Nox/Binaries/
+Nox/Content/
+Nox/Intermediate/
+Nox/Saved/
+
+*/*.sln
+*/*.uproject
