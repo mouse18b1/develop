@@ -3,6 +3,7 @@ Nox/Binaries/
 Nox/Content/
 Nox/Intermediate/
 Nox/Saved/
+Nox/.idea/
 
 */*.sln
 */*.uproject
